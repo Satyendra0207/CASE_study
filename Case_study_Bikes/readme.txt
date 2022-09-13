@@ -26,3 +26,11 @@ Recommendations'
 Company can introduce more docked bikes as it is famous amongst the riders
 	docked bikes > classic bikes > Electric bikes 
  Attractive Offers in weekdays 
+
+
+This folder contains 
+1-Zip files 📂 of the dataset
+2-Powerpoint presentation of the outcomes 
+3-Rmd file and a html file of the whole code
+4-Pdf file contiaing the code
+5-Screenshots that explains details about the Divvy Bikes
