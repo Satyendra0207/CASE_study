@@ -1,39 +1,31 @@
 # Case Study on Bell-Beat -smartband producer company
 
-### Divvy Bikes --Prominent rental bike service provider 
-1- Divvy bikes is a bike service provider  which provides bikes for ride and has a two types of membership “casual” or “Member”.
-It has three types of bikes
-* Classic bikes
-* Docked bikes 
-* Electric bikes
+## BELLBEAT USA BASED COMPANY 
 
+### PRODUCTS OF BELLABEAT
+* Leaf: A fitness Tracker (Case study subject)
+* Time: Wellness Watch
+* Spring: Water Bottle –daily water intake
 The director of company wants a analysis on its members behaviour to understand the future aspects , related to which membership will bring the most benefit 
 
-### Objective-- Understand how casual riders(customers) and annual members(subscribers) of Cyclitic - Bike Share use Cyclitic bikes differently and come up with 	       efficient recommendations to convert casual riders into annual members.
-
-* STAKEHOLDERS’S-
-1-Lily Moreno - Director of Marketing
-2-Cyclistic marketing analytics team 
-3-Cyclistic executive team
-
-### Outcomes-
-Subscribers are more in the company as compare to customers (almost 10% difference)
-Customers are doing the more ride then the subscribers 
-“Docked bike” is more famous among the customer  and “classic bike “amongst the subscribers 
+### Objective-- 
+* How can a wellness technology company play it smart and make decisions to attract its customer
+* What are some trends in smart device usage?
+* How could these trends apply to Bellabeat customers?
+* How could these trends help influence Bellabeat marketing strategy?
 
 ### Recommendations' 
- * A suitable offer for customer (casual riders) that will attract them to take annual membership i.e.
-	 annual membership cost  < daily membership/monthly membership cost 
-* Company can introduce more docked bikes as it is famous amongst the riders
-	docked bikes > classic bikes > Electric bikes 
- * Attractive Offers in weekdays 
-
+* Target existing Fitness tracker users who takes less than 5000 daily steps, advertise Bellabeat's wellness coaching specially on Saturdays.
+* Target existing Fitness tracker users who takes less than 8000 daily steps and give frequent reminders to maintain their daily steps. Motivate them for better   	goals so that they can achieve fitness badges and more benefits from the app.
+* Target existing Fitness tracker users who takes more than 10000 daily steps and appreciate them with weekly fitness badges, half/yearly coupons, encourage for 	social media engagement.
+* Target existing fitness tracker users with high BMI levels and recommend small 5 days a week work out plans, remind them monthly weight check.
+* Targeted Days for late evening social media Marketing and consumer social media engagement are Saturday, Sunday, Monday, Tuesday.
+* Most advised media marketing (TV, Radio) times Mon-Sat are 12pm and 5-7 pm, as data shows the peak workout time falls in the above mentioned time. So there is high chance that people might be watching or listening TV/Radio/Podcast etc while their active work out sessions.
 
 ### This folder contains 
-
-* -Zip files 📂 of the dataset
+* -CSV files 📂 of the dataset
 * -Powerpoint presentation of the outcomes 
 * -Rmd file and a html file of the whole code
 * -Pdf file contiaing the code
-* -Screenshots that explains details about the Divvy Bikes
+* -Screenshots that explains details about the analysis
 
